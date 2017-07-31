@@ -1,0 +1,23 @@
+{
+  "name": "mean-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akashvarshney/mean-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akashvarshney/mean-demo/issues"
+  },
+  "homepage": "https://github.com/akashvarshney/mean-demo#readme",
+  "dependencies": {
+    "express": "4.15.3",
+    "pug": "2.0.0-rc.2"
+  }
+}
